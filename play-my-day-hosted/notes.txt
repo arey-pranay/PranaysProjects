@@ -1,0 +1,22 @@
+https://www.npmjs.com/package/vanilla-tilt
+https://www.npmjs.com/package/react-animation-on-scroll
+used vanilla-tilt and react-animation-on-scroll
+
+https://console.firebase.google.com/u/0/project/play-my-day/settings/general/web:ODFlMDY2OTItY2U0Mi00ZGMwLTllMGEtZGNmMTRkZDZhMjU3
+https://firebase.google.com/docs/auth/web/google-signin
+https://youtu.be/vDT7EnUpEoo?si=MAIM2n-iH_IrAkL2
+used google-auth and firebase
+Piyush Garg playlist firebase project
+https://www.youtube.com/watch?v=jCY6DH8F4oc&t=2101s&ab_channel=PedroTech
+
+learned localStorage.setItem("name",name) and localStorage.getItem("name")
+
+used font awesome
+https://fontawesome.com/v5/docs/web/use-with/react
+
+used particle.js
+https://vincentgarreau.com/particles.js/#snow
+
+deployed on firebase
+https://damianztone.medium.com/deploy-a-react-app-with-firebase-hosting-and-godaddy-b85c993e750b
+knowledgehut.com/blog/web-development/deploying-react-app-to-firebase#frequently-asked-questions
