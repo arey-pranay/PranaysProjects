@@ -4,12 +4,12 @@ import { PinContainer1 } from "./ui/3d-pin";
 
 export default function RHS() {
   return (
-    <div className="h-fit w-[80vw] sm:w-full flex items-center justify-center hover:scale-110 transition-all 2s">
+    <div className="h-fit w-[80vw] sm:w-[10vw] flex items-center justify-center hover:scale-110 transition-all 2s">
       <PinContainer1
         title="pranay-firework"
         href="https://pranay-firework.vercel.app/"
       >
-        <div className="flex overflow-hidden basis-full flex-col p-0 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-1/2 sm:w-[40rem] sm:h-[30rem] ">
+        <div className="flex overflow-hidden basis-full flex-col p-0 tracking-tight text-slate-100/50 sm:basis-1/2 w-[20rem] h-1/2 sm:w-[30rem] sm:h-[30rem] ">
           {/* <iframe   style={{ border: "none",overflow: "hidden" }} src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7159057117583179776?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>   */}
           <iframe
             className="h-full"
