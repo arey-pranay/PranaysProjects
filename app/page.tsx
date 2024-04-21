@@ -9,11 +9,13 @@ export default function Home() {
     <>
       {/* <BackgroundBoxesDemo /> */}
       <div className="w-full h-screen ">
-        <div className="h-full relative w-full overflow-hidden bg-slate-950 flex flex-col items-center justify-center rounded-lg">
+        <div className="h-full relative w-full overflow-hidden bg-slate-950 flex flex-col items-center justify-center rounded-none">
+          {/* <h1 className="text-center text-4xl text-white">Greetings</h1> */}
+
           <div className="absolute inset-0 w-full  bg-slate-900 z-20 [mask-image:radial-gradient(transparent,white)] pointer-events-none h-screen" />
 
           <Boxes />
-          <div className="sm:justify-center justify-around  items-center flex sm:flex-row flex-col overflow-x-hidden md:overflow-y-hidden w-screen h-full">
+          <div className=" justify-around  items-center flex sm:flex-row flex-col overflow-x-hidden md:overflow-y-hidden w-screen h-full">
             <LHS />
             <RHS />
           </div>
